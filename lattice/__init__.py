@@ -13,6 +13,8 @@ from .preset import (
 )
 from .generator import (
     ElementalGenerator,
+    BaryonElementalGenerator,
+    BaryonMesonElementalGenerator,
     DisplacementElementalGenerator,
     EigenvectorGenerator,
     PerambulatorGenerator,
