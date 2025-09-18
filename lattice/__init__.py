@@ -21,6 +21,7 @@ from .generator import (
     GeneralizedPerambulatorGenerator,
     DensityPerambulatorGenerator,
     NoisevectorGenerator,
+    SmearedPropagatorGenerator
 )
 from .quark_diagram import (
     QuarkDiagram,

@@ -7,4 +7,5 @@ from .generalized_perambulator import GeneralizedPerambulatorGenerator
 from .density_perambulator import DensityPerambulatorGenerator
 from .elementalB import BaryonElementalGenerator
 from .elementalBM import BaryonMesonElementalGenerator
+from .smeared_propagator import SmearedPropagatorGenerator
 
